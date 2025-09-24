@@ -1,0 +1,26 @@
+{
+    "title": "음식에 대해",
+    "desc": "여러가지 음식에 대해서 알아본다",
+    "backgroundImage": "https://reactjs.org/logo-og.png",
+    "mainImage": "https://c.pxhere.com/photos/be/03/fall_flowers_chrysanthemum_flower_wallpaper_free_pictures_autumn_flowers_yellow_chrysanthemums_wildflower-789719.jpg!d",
+    "items":[
+        {
+            "index":0,
+            "itemImage": "https://c.pxhere.com/photos/be/03/fall_flowers_chrysanthemum_flower_wallpaper_free_pictures_autumn_flowers_yellow_chrysanthemums_wildflower-789719.jpg!d",
+            "itemTitle":"피자",
+            "itemDesc":"피자는 이탈리아에서 기원한 대표적인 음식으로 모양은 둥글게 생겼으면 여러가지 재료를 올려서 먹을수 있는 음식으로 아이들이 좋아한다."
+        },
+        {
+            "index":1,
+            "itemImage": "https://reactjs.org/logo-og.png",
+            "itemTitle":"스파게티",
+            "itemDesc":"스파게티 이탈리아의 면 요리이다."
+        },
+        {
+            "index":2,
+            "itemImage": "https://c.pxhere.com/photos/be/03/fall_flowers_chrysanthemum_flower_wallpaper_free_pictures_autumn_flowers_yellow_chrysanthemums_wildflower-789719.jpg!d",
+            "itemTitle":"김치",
+            "itemDesc":"김치는 한국의 대표적인 발효 음식으로, 옛날부터 내려오는 전통의 음식으로 지역마다 들어가는 양념이나 젖갈에 따라 다양한 맛이 나오고 집집마다 맛의 차이가 있다."
+        }        
+    ]
+}

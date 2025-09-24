@@ -1,0 +1,41 @@
+필수 설치
+
+1. 비주얼 스튜디오 코드 설치
+https://code.visualstudio.com/
+
+2. 안드로이드 스튜디오 설치
+https://developer.android.com/studio?hl=ko
+
+3. node, npm 설치
+윈도우즈용 node, npm 설치
+https://nodejs.org/download/release/v12.19.1/node-v12.19.1-x64.msi
+
+Mac : XCode 설치
+https://apps.apple.com/kr/app/xcode/id497799835?mt=12
+
+Mac : node, npm 설치
+https://nodejs.org/download/release/v12.19.1/node-v12.19.1.pkg
+
+================================================================
+추가 설치
+
+1. expo 가입
+https://expo.io/signup
+
+2. 로컬에 expo 셋팅
+윈도우즈 명령창에서  npx expo login
+expo 이메일(또는 아이디) 패스워드 입력
+
+3. AppStudy로 작업폴더 만들기
+
+4. 프로젝트 만들기
+윈도우즈 명령창에서 npx create-expo-app 프로젝트명 --template blank
+
+5. 프로젝트 폴더로 이동
+VisualStudioCode 터미널에서 프로젝트 폴더로 이동 cd [프로젝트 폴더 이름]
+
+6. 실행
+VisualStudioCode 터미널에서  npx expo start
+
+7. Expo 서버 끄기
+VisualStudioCode 터미널에서  Ctrl + c
