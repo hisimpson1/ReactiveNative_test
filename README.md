@@ -19,3 +19,15 @@ module.exports = function (api) {
   };
 };
 ```
+-  babel.config.js 파일이 없는 경우: npx expo customize 명령으로 생성
+```
+다음과 같이 디폴트로 생성해도 문제가 없다.
+
+module.exports = function (api) {
+  api.cache(true);
+  return {
+    presets: ['babel-preset-expo'],
+  };
+};
+```
+- 빌드하기 전에 문제가 없는지 체크하기 :   npx expo-doctor
