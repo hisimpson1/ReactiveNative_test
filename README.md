@@ -1,5 +1,6 @@
 ### 리액티브 네이티브 API
 
+- npm에 모듈이 설치 되었는지 확인하기 : npm list expo-build-properties  <--- expo-build-properties 모듈이 설치 되었는지 확인한다. 설치 안되었으면 empty로 출력된다.
 - TouchableWithoutFeedback : 피드백(시각적 반응)없이 터치 이벤트를 처리한다. https://reactnative.dev/docs/touchablewithoutfeedback
 - satus bar 설치 : npx expo install expo-status-bar
 - Expo SDK 문서 https://docs.expo.dev/versions/latest/?redirected
