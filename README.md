@@ -35,3 +35,4 @@ module.exports = function (api) {
 - 리액트네이티브에서 2D 게임 만들기 :
   https://steemit.com/kr/@anpigon/react-native
   https://dev.to/ryanvanbelkum/building-a-mobile-game-using-react-native-3320
+  https://geekyants.com/blog/how-to-build-a-game-using-react-native
