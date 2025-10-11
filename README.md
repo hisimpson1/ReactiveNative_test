@@ -32,3 +32,4 @@ module.exports = function (api) {
 };
 ```
 - 빌드하기 전에 문제가 없는지 체크하기 :   npx expo-doctor
+- 리액트네이티브에서 2D 게임 만들기 : https://steemit.com/kr/@anpigon/react-native
