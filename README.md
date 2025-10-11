@@ -36,3 +36,6 @@ module.exports = function (api) {
   https://steemit.com/kr/@anpigon/react-native
   https://dev.to/ryanvanbelkum/building-a-mobile-game-using-react-native-3320
   https://geekyants.com/blog/how-to-build-a-game-using-react-native
+  
+  https://medium.com/@williamyang93/my-journey-with-react-native-game-engine-part-i-starting-the-project-bbebcd2ccf6
+  https://medium.com/@williamyang93/my-journey-with-react-native-game-engine-part-ii-adding-touch-and-bounce-b9ae3fac06b9
