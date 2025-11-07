@@ -12,7 +12,7 @@ export const Box2 = (props) => {
 };
 
 // Box3 컴포넌트
-export const Box3 = (props) => {
+export function Box3(props) {
   return <View style={[styles.box3, props.style]} />;
 };
 
