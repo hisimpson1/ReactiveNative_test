@@ -1,24 +1,24 @@
 import React from 'react';
-import { Text, View, StyleSheet} from 'react-native';
+import styled from 'styled-components/native';
 
 export default function App() {
   return (
-    <View style={styles.box}>
-      <Text style={styles.text}>안녕, StyleSheet!</Text>
-    </View>
+    <Box>
+      <Title>안녕, StyleSheet!</Title>
+    </Box>
   );
 }
 
-const styles = StyleSheet.create({
-  box : {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#f0f8ff'
-  },
-  text : {
-    fontSize: 22,
-    fontWeight: 'bold',
-    color: '#2c3e50',
-  }
-});  
+const Box = styled.View`
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f8ff;
+`;
+
+// styled.Text → React Native의 Text 컴포넌트
+const Title = styled.Text`
+  font-size: 22px;
+  font-weight: bold;
+  color: #2c3e50;
+`;
